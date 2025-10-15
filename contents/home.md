@@ -4,11 +4,15 @@
 
 He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
 
-#### Contact
+#### 个人邮箱
 
-Email: senli[at]fas.harvard.edu
+Email: Kairongma[at]163.com 
 
-#### Education
+#### 教育背景
+武汉大学 经济与管理学院 经济学博士
+中南财经政法大学 文澜学院 经济学硕士
+武汉理工大学 经济学院 经济学学士
+
 M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
 B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
 
