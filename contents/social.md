@@ -43,8 +43,8 @@
 
 2021.09-2022.06校团委副书记（协管创新创业、社会实践工作）
 
-![06校团委副书记（协管创新创业、社会实践工作）](static/assets/img/4.png)
 
+<img src="static/assets/img/4.png" style="max-width: 100%; height: auto;">
 2017.09-2021.06历任校组织部部长、副部长、中心副主任等
 
 
