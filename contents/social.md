@@ -34,29 +34,30 @@
 - 2025 中国国际大学生创新大赛（指导老师） 国家级银奖
 - 2023 第一届中国研究生金融科技创新大赛（排序第一） 国家级铜奖
 - 2022 第十二届“正大杯”全国大学生市场调查与分析大赛 （排序第一）国家级铜奖
-- 2021第七届中国国际“互联网+”大学生创新创业大赛 国家级铜奖
-- 2019第六届中国国际“互联网+”大学生创新创业大赛（排序第二） 国家级铜奖
-- 其他省级获奖：中国计算机大赛网络技术挑战赛（省级金奖），“挑战杯”全国大学生课外学术科技作品竞赛（省级银奖），“挑战杯”中国大学生创业计划竞赛（省级铜奖）
+- 2021 第七届中国国际“互联网+”大学生创新创业大赛 国家级铜奖
+- 2019 第六届中国国际“互联网+”大学生创新创业大赛（排序第二） 国家级铜奖
+- 其他省级获奖：中国计算机大赛网络技术挑战赛（省级金奖），“挑战杯”全国大学生课外学术科技作品竞赛（省级银奖），“挑战杯”中国大学生创业计划竞赛（省级铜奖）等
 
 
 #### 学生工作
 
 
-2021.09-2022.06校团委副书记（协管创新创业、社会实践工作）
-
-
+2021.09-2022.06 任校团委副书记（协管创新创业、社会实践工作）
 <img src="static/assets/img/4.png" style="max-width: 100%; height: auto;">
-2017.09-2021.06历任校组织部部长、副部长、中心副主任等
 
+2020.09-2021.06 任校团委组织部部长
+<img src="static/assets/img/22.png" style="max-width: 100%; height: auto;">
 
+2019.09-2020.06 任校团委组织部副部长（团员发展中心主任）
+<img src="static/assets/img/27.png" style="max-width: 100%; height: auto;">
 
+2018.09-2019.06 任校团委组织部团籍管理中心副主任
+<img src="static/assets/img/28.png" style="max-width: 100%; height: auto;">
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%;">
-  <!-- 6张图片 -->
-  <img src="static/assets/img/21.png" style="width: 100%; height: auto;">
-  <img src="static/assets/img/22.png" style="width: 100%; height: auto;">
-  <img src="static/assets/img/23.png" style="width: 100%; height: auto;">    
-  <img src="static/assets/img/24.png" style="width: 100%; height: auto;">
-  <img src="static/assets/img/25.png" style="width: 100%; height: auto;">
-  <img src="static/assets/img/26.png" style="width: 100%; height: auto;">
-</div>
+2017.10-2018.09 任校团委组织部部员
+<img src="static/assets/img/23.png" style="max-width: 100%; height: auto;">
+
+2017.10-2021.09 任国贸1701团支部书记
+<img src="static/assets/img/6.png" style="max-width: 100%; height: auto;">
+
+集体获校五四团支部、校标兵班集体；个人获校最美团支部标兵，校优秀学生干部等荣誉称号。
