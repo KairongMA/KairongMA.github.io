@@ -12,6 +12,9 @@
 
 2021年竞赛团队
 
+<center>
+  <img src="static/assets/img/1.png" alt="2021年竞赛团队">
+</center>
 
 
 【获奖赛事】金融科技国家级铜奖、正大杯国家级铜奖、挑战杯省级铜奖等。
