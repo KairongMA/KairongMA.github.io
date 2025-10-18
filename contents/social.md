@@ -50,7 +50,7 @@
 
 
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 600px;">
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 100%;">
   <!-- 6张图片 -->
   <img src="static/assets/img/21.png" style="width: 100%; height: auto;">
   <img src="static/assets/img/22.png" style="width: 100%; height: auto;">
