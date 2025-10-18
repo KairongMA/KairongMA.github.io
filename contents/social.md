@@ -7,19 +7,23 @@
 #### 竞赛团队
 2022年竞赛团队
 
+![2022年竞赛团队](static/assets/img/1.png)
+
 【获奖赛事】挑战杯省级银奖等。
 
 
 2021年竞赛团队
 
 
+![2021年竞赛团队](static/assets/img/2.png)
 
-![2021年竞赛团队"](static/assets/img/1.png)
+
 
 【获奖赛事】金融科技国家级铜奖、正大杯国家级铜奖、挑战杯省级铜奖等。
+
 2020年竞赛团队
 
-
+![2020年竞赛团队](static/assets/img/3.png)
 
 【获奖赛事】互联网+国家级铜奖等
 
@@ -39,6 +43,19 @@
 
 2021.09-2022.06校团委副书记（协管创新创业、社会实践工作）
 
-
+![06校团委副书记（协管创新创业、社会实践工作）](static/assets/img/4.png)
 
 2017.09-2021.06历任校组织部部长、副部长、中心副主任等
+
+
+
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; width: 600px;">
+  <!-- 6张图片 -->
+  <img src="static/assets/img/21.png" style="width: 100%; height: auto;">
+  <img src="static/assets/img/22.png" style="width: 100%; height: auto;">
+  <img src="static/assets/img/23.png" style="width: 100%; height: auto;">    
+  <img src="static/assets/img/24.png" style="width: 100%; height: auto;">
+  <img src="static/assets/img/25.png" style="width: 100%; height: auto;">
+  <img src="static/assets/img/26.png" style="width: 100%; height: auto;">
+</div>
