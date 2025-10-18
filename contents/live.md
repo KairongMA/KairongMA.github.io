@@ -12,13 +12,13 @@
 
 
 
-<img src="static/assets/img/5.png" style="max-width: 100%; height: auto;">
+<img src="static/assets/img/5.png" style="width: 100%; height: auto; margin-top: 20px;    ">
 
 
-<img src="static/assets/img/6.png" style="max-width: 100%; height: auto;">
+<img src="static/assets/img/6.png" style="width: 100%; height: auto;margin-top: 20px; ">
 
 
-<img src="static/assets/img/7.png" style="max-width: 100%; height: auto;">
+<img src="static/assets/img/7.png" style="width: 100%; height: auto;margin-top: 20px; ">
 
 
-<img src="static/assets/img/8.png" style="max-width: 100%; height: auto;">
+<img src="static/assets/img/8.png" style="width: 100%; height: auto;margin-top: 20px; ">
