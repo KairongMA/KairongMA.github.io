@@ -39,16 +39,3 @@
 
 - 2020届校团委各部门部长合影
 ![2020届校团委各部门部长合影](static/assets/img/31.png)
-
-![1](static/assets/img/31.png)
-
-
-![1](static/assets/img/6.png)
-
-
-
-![1](static/assets/img/7.png)
-
-
-
-![1](static/assets/img/8.png)
