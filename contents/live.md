@@ -1,24 +1,41 @@
 
+写在前面： <br/>
+<span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span> <span> &nbsp; </span>当初设计这个版块的本意是想在充满浓厚的工作氛围的网页上，加入一些我的生活气息。特别是，记录这一路上许多提携和托举过我的老师、前辈和朋友们。他们有一部分和我取得了亮点的成果，已经出现在前面的版块中。但仍有许多对我重要的人，对我的成长产生了巨大的影响。一些对他们的感激，就悄悄地留在这里。
 
 
-每个人都是自己思想的囚徒
-
-你以为的低门槛，不一定是为你准备的
-
+#### 珞珈翠微心
 你要用时间去证明你的优秀
 
-不要总是做些小研究
+- 与复旦大学郑磊老师合影
+<img src="static/assets/img/310.png" style="max-width: 100%; height: auto;">
 
+#### 青出于澜·中南财
+- 与硕导王文晓老师合影
+<img src="static/assets/img/39.png" style="max-width: 100%; height: auto;">
 
+#### 追求卓越·理工大
 
+- 与本科班主任、毕业论文指导老师黄艳希老师合影
+<img src="static/assets/img/38.png" style="max-width: 100%; height: auto;">
 
-<img src="static/assets/img/5.png" style="width: 100%; height: auto; margin-top: 20px;    ">
+- 与本科辅导员叶双龙老师合影
+<img src="static/assets/img/37.png" style="max-width: 100%; height: auto;">
 
+- 与黄蕙萍老师合影
+<img src="static/assets/img/36.png" style="max-width: 100%; height: auto;">
 
-<img src="static/assets/img/6.png" style="width: 100%; height: auto;margin-top: 20px; ">
+- 与余谦老师合影
+<img src="static/assets/img/35.png" style="max-width: 100%; height: auto;">
 
+- 国际经济与贸易2017级1班合影
+<img src="static/assets/img/34.png" style="max-width: 100%; height: auto;">
 
-<img src="static/assets/img/7.png" style="width: 100%; height: auto;margin-top: 20px; ">
+- 与何超学长、金宏学妹合影
+<img src="static/assets/img/33.png" style="max-width: 100%; height: auto;">
+注：分别任2020届校团委组织部指导老师、2021届校团委组织部部长。
 
+- 一张具有重要意义的照片
+<img src="static/assets/img/32.png" style="max-width: 100%; height: auto;">
 
-<img src="static/assets/img/8.png" style="width: 100%; height: auto;margin-top: 20px; ">
+- 2020届校团委各部门部长合影
+<img src="static/assets/img/31.png" style="max-width: 100%; height: auto;">
