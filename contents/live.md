@@ -7,11 +7,11 @@
 你要用时间去证明你的优秀
 
 - 与复旦大学郑磊老师合影
-![与复旦大学郑磊老师合影](static/assets/img/38.png)
+![与复旦大学郑磊老师合影](static/assets/img/310.png)
 
 #### 青出于澜·中南财
 - 与硕导王文晓老师合影
-![与硕导王文晓老师合影](static/assets/img/38.png)
+![与硕导王文晓老师合影](static/assets/img/39.png)
 
 #### 追求卓越·理工大
 
